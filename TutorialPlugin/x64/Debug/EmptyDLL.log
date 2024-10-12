@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\yuritsuki\Desktop\EmptyDLL\dllmain.cpp(22,13): error C2653: 'Era': is not a class or namespace name
+C:\Users\yuritsuki\Desktop\EmptyDLL\dllmain.cpp(22,18): error C3861: 'ConnectEra': identifier not found
